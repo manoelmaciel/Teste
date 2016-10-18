@@ -1,10 +1,9 @@
-/*
- * Código fonte reproduzido do livro 
- * Testes Automatizados: um guia prático
- * Maurício Aniche
- * Casa do Código
- * http://www.casadocodigo.com.br/products/livro-testes-de-software
+/* 
+ * Sistema Leilão - Versão 2, 
+ * Adaptado para o Tutorial
+ * Por: Manoel Braz Maciel
  */
+
 package fontes_Versao1;
 
 /**

@@ -1,5 +1,5 @@
 /* 
- * Sistema Leilão - Versão 1, 
+ * Sistema Leilão - Versão 2, 
  * Adaptado para o Tutorial
  * Por: Manoel Braz Maciel
  */
